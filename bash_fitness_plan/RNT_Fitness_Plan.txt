@@ -1,0 +1,175 @@
+﻿Fitness Plan
+
+Monday
+	Nutrition Plan
+		Meal 1
+			Tofu 150g
+			Vegetables 150g
+		Meal 2
+			Avocado 100g
+			White Potato 150g
+			Vegetables 150g
+			Tempeh 75g
+		Meal 3
+			Almonds 25g
+			Strawberries / Raspberries / Blackberries 100g
+			Pro V-Gain 30g
+		Meal 4
+			Edamame Spaghetti 80g
+			Vegetables 150g
+			Red Lentils (DRY) 80g
+	Training Plan - Day 1
+		DB Split Squat - 3 Sets 8-12 Reps 90 Second Rest
+		Pronated Pulldown - 3 Sets 8-12 Reps 90 Second Rest
+		Hip Thrust - 3 Sets 8-12 Reps 90 Second Rest
+		Inline DB Press - 3 Sets 8-12 Reps 90 Second Rest
+		Leg Extensions - 3 Sets 10-15 Reps 60 Second Rest
+		Chest Supported Machine Row (Lat) - 3 Sets 10-15 Reps 60 Second Rest
+	10,000 steps
+	2-3 litres Water
+
+Tuesday
+	Nutrition Plan
+		Meal 1
+			Tofu 150g
+			Vegetables 150g
+		Meal 2
+			Avocado 100g
+			White Potato 150g
+			Vegetables 150g
+			Tempeh 75g
+		Meal 3
+			Almonds 25g
+			Strawberries / Raspberries / Blackberries 100g
+			Pro V-Gain 30g
+		Meal 4
+			Edamame Spaghetti 80g
+			Vegetables 150g
+			Red Lentils (DRY) 80g
+	Rest Day - No Training
+	10,000 steps
+	2-3 litres Water
+
+Wednesday
+	Nutrition Plan
+		Meal 1
+			Tofu 150g
+			Vegetables 150g
+		Meal 2
+			Avocado 100g
+			White Potato 150g
+			Vegetables 150g
+			Tempeh 75g
+		Meal 3
+			Almonds 25g
+			Strawberries / Raspberries / Blackberries 100g
+			Pro V-Gain 30g
+		Meal 4
+			Edamame Spaghetti 80g
+			Vegetables 150g
+			Red Lentils (DRY) 80g
+	Training Plan - Day 2
+		RDL - 3 Sets 8-12 Reps 90 Second Rest
+		DB Chest Press - 3 Sets 8-12 Reps 90 Second Rest
+		Leg Press - 3 Sets 8-12 Reps 90 Second Rest
+		Single Arm DB Row (Lats) - 3 Sets 8-12 Reps 90 Second Rest 
+		Lying Hamstring Out - 3 Sets 10-15 Reps 60 Second Rest
+		Machine Shoulder Press - 3 Sets 10-15 Reps 60 Second Rest
+	10,000 steps
+	2-3 litres Water
+
+Thursday
+	Nutrition Plan
+		Meal 1
+			Tofu 150g
+			Vegetables 150g
+		Meal 2
+			Avocado 100g
+			White Potato 150g
+			Vegetables 150g
+			Tempeh 75g
+		Meal 3
+			Almonds 25g
+			Strawberries / Raspberries / Blackberries 100g
+			Pro V-Gain 30g
+		Meal 4
+			Edamame Spaghetti 80g
+			Vegetables 150g
+			Red Lentils (DRY) 80g
+	Rest Day - No Training
+	Cardio - 30 minutes
+	10,000 steps
+	2-3 litres Waters
+
+Friday
+	Nutrition Plan
+		Meal 1
+			Tofu 150g
+			Vegetables 150g
+		Meal 2
+			Avocado 100g
+			White Potato 150g
+			Vegetables 150g
+			Tempeh 75g
+		Meal 3
+			Almonds 25g
+			Strawberries / Raspberries / Blackberries 100g
+			Pro V-Gain 30g
+		Meal 4
+			Edamame Spaghetti 80g
+			Vegetables 150g
+			Red Lentils (DRY) 80g
+	Training Plan - Day 3
+		RDL - 3 Sets 8-12 Reps 90 Second Rest
+		Neutral Grip Pulldown - 3 Sets 8-12 Reps 90 Second Rest
+		Hip Thrust - 3 Sets 8-12 Reps 90 Second Rest
+		Inline DB Press - 3 Sets 8-12 Reps 90 Second Rest
+		Leg Extensions - 3 Sets 10-15 Reps 60 Second Rest
+		Chest Supported Machine Row (Lat) - 3 Sets 10-15 Reps 60 Second Rest
+	10,000 steps
+	2-3 litres Water
+
+Saturday
+	Nutrition Plan
+		Meal 1
+			Tofu 150g
+			Vegetables 150g
+		Meal 2
+			Avocado 100g
+			White Potato 150g
+			Vegetables 150g
+			Tempeh 75g
+		Meal 3
+			Almonds 25g
+			Strawberries / Raspberries / Blackberries 100g
+			Pro V-Gain 30g
+		Meal 4
+			Edamame Spaghetti 80g
+			Vegetables 150g
+			Red Lentils (DRY) 80g
+	Rest Day - No Training
+	10,000 steps
+	2-3 litres Water
+
+Sunday
+	Nutrition Plan
+		Meal 1
+			Tofu 150g
+			Vegetables 150g
+		Meal 2
+			Avocado 100g
+			White Potato 150g
+			Vegetables 150g
+			Tempeh 75g
+		Meal 3
+			Almonds 25g
+			Strawberries / Raspberries / Blackberries 100g
+			Pro V-Gain 30g
+		Meal 4
+			Edamame Spaghetti 80g
+			Vegetables 150g
+			Red Lentils (DRY) 80g
+	Rest Day - No Training
+	Cardio - 30 minutes
+	10,000 steps
+	2-3 litres Water
